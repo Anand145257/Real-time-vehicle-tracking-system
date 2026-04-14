@@ -215,12 +215,4 @@ Manages authentication state, JWT token storage, and protected route enforcement
 This project is licensed under the **ISC License**.
 
 ---
-
-## 👤 Author
-
-**Anand145257**  
-GitHub: [@Anand145257](https://github.com/Anand145257)
-
----
-
 > Built with ❤️ for real-time fleet management and vehicle safety monitoring.
