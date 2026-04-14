@@ -1,4 +1,4 @@
-# 🚦 Real-Time Vehicle Tracking System
+in# 🚦 Real-Time Vehicle Tracking System
 
 A full-stack, production-ready **real-time vehicle tracking system** featuring JWT authentication, live Socket.io communication, behavior-based SOS alerts, traffic-aware routing, and an interactive Leaflet map dashboard built with React.
 
@@ -10,7 +10,7 @@ A full-stack, production-ready **real-time vehicle tracking system** featuring J
 - 🚨 **SOS Alert System** — Automated behavior-based SOS detection with alert history and notifications
 - 📡 **WebSocket Communication** — Bidirectional real-time data streaming via Socket.io
 - 🔐 **JWT Authentication** — Secure login with token-based access control for both REST and Socket.io
-- 🚦 **Traffic-Aware Routing** — Dynamic route calculation using RoutingService
+- 🚦 **Traffic-Aware Routing** — Dynamic route calculation using RoutingService.
 - 📊 **Metrics Dashboard** — Live vehicle metrics panel with speed, heading, and risk indicators
 - ⚙️ **Settings & Alerts Pages** — Dedicated multi-page navigation with React Router
 - 🌙 **Premium Dark UI** — Glassmorphism-inspired dark-themed design with smooth micro-animations
