@@ -1,0 +1,14 @@
+{
+  "name": "vehicle-tracking",
+  "version": "1.0.0",
+  "description": "Real-time Vehicle Tracking Full-stack App",
+  "scripts": {
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start:backend": "cd backend && node server.js",
+    "start:frontend": "cd frontend && npm run dev",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
